@@ -1,5 +1,7 @@
 # 說明 #
 練習用專案，如果有錯誤請PR，謝謝。
+部落格文章：https://dotblogs.com.tw/artblog/2018/04/07/es6_webpack
+
 
 ### 使用套件
 

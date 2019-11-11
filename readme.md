@@ -1,6 +1,5 @@
-# 說明 #
-練習用專案，如果有錯誤請PR，謝謝。
-部落格文章：https://dotblogs.com.tw/artblog/2018/04/07/es6_webpack
+## 說明 ##
+部落格：https://partypeopleland.github.io/artblog/2018/04/09/es6-webpack-%E7%B7%B4%E7%BF%92/
 
 
 ### 使用套件

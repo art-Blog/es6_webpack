@@ -1,5 +1,5 @@
 ## 說明 ##
-部落格：https://partypeopleland.github.io/artblog/2018/04/09/es6-webpack-%E7%B7%B4%E7%BF%92/
+部落格：[es6 + webpack 練習](https://partypeopleland.github.io/artblog/2018/04/09/es6+webpack%E7%B7%B4%E7%BF%92/)
 
 
 ### 使用套件
